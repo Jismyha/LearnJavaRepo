@@ -1,3 +1,5 @@
+package Basic;
+
 public class ExceptionTest extends Exception {
     private String rtnMsg;
     private String rtnCode;

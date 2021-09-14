@@ -1,4 +1,5 @@
-import java.security.KeyStore.Entry;
+package Basic;
+
 import java.util.*;
 
 public class CollectionTest {
