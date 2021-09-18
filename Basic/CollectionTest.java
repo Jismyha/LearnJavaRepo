@@ -2,6 +2,12 @@ package Basic;
 
 import java.util.*;
 
+/**
+ * 测试 JCF 中的常见集合
+ * 
+ * @author KureNaii
+ * @version 1.0
+ */
 public class CollectionTest {
     public static void main(String[] args) {
         List<String> list = new ArrayList<>();

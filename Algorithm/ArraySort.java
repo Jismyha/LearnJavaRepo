@@ -130,7 +130,12 @@ public class ArraySort {
      * @return result int[]
      */
     public static int[] mergeSort(int[] numbers) {
+        // 拷贝实参
+        int[] result = Arrays.copyOf(numbers, numbers.length);
 
+        // ....
+
+        return result;
     }
 
     /**
