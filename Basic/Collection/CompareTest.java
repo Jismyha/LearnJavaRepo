@@ -1,4 +1,4 @@
-package Basic;
+package Basic.Collection;
 
 /**
  * 测试 Java 的 compare 方法

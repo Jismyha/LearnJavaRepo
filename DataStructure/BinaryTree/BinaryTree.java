@@ -113,8 +113,6 @@ public class BinaryTree {
         System.out.print(root + " ");
     }
 
-    public void 
-
     public static void main(String[] args) {
         BinaryTree bTree = new BinaryTree();
         bTree.insert(5);
